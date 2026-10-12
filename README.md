@@ -1,44 +1,42 @@
-# 🏢 Employee Management System
+# Employee Management System
 
-A full-stack web application to manage employees, attendance and tasks.
+Full-stack web application to manage employees, attendance and tasks, built with Angular and Spring Boot.
 
-## 🔐 Login
-- Email: admin@company.com
-- Password: admin123
+## Features
 
-## 🌟 Features
-
-### 📊 Dashboard
-- Real-time statistics
-- Department chart
+**Dashboard**
+- Statistics by department
 - Recent activity feed
 
-### 👥 Employee Management
-- Add / Edit / Delete employees
+**Employee management**
+- Add, edit and delete employees
 - Search and filter
 - Department tracking
 
-### 📅 Attendance Tracking
-- Daily check-in / check-out
-- Present / Absent / Late status
+**Attendance tracking**
+- Daily check-in and check-out
+- Present, absent and late status
 - Attendance records
 
-### ✅ Task Management
+**Task management**
 - Assign tasks to employees
-- Priority levels (High/Medium/Low)
-- Track task status
+- Priority levels (high, medium, low)
+- Track the status of each task
 
-## 🛠️ Technologies Used
-- Angular
-- TypeScript
-- Bootstrap
-- HTML5 & CSS3
-- Spring Boot (Backend)
-- MySQL (Database)
+## Technologies
 
-## 🌐 Live Demo
-https://wissalhajjej.github.io/employee-management-system
+- Frontend: Angular, TypeScript, Bootstrap, HTML5, CSS3
+- Backend: Spring Boot
+- Database: MySQL
 
-## 👩‍💻 Author
-Wissal Hajjej — Computer Engineering Student
-Girne American University
+## Demo account
+
+Email: `admin@company.com` / Password: `admin123` (demo data only)
+
+## Note
+
+The application needs the Spring Boot backend and a MySQL database to run, so there is no online demo.
+
+## Author
+
+Wissal Hajjej, Computer Engineering student at Girne American University (graduating June 2027)
