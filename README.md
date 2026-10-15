@@ -29,8 +29,11 @@ HTML5 | CSS3 | JavaScript (no framework, no backend)
 
 ## How to run
 
-Download `index (30).html` and open it in your browser. Sign in with the demo account below.
+## Live demo
 
+https://wissalhajjej.github.io/employee-management-system/
+
+Sign in with the demo account below. You can also download `index.html` and open it in your browser.
 ## Demo account
 
 Email: `admin@company.com` / Password: `admin123` (demo data only)
