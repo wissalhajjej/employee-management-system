@@ -1,6 +1,6 @@
 # Employee Management System
 
-Full-stack web application to manage employees, attendance and tasks, built with Angular and Spring Boot.
+Front-end web application to manage employees, attendance and tasks, built with HTML, CSS and JavaScript.
 
 ## Features
 
@@ -10,13 +10,13 @@ Full-stack web application to manage employees, attendance and tasks, built with
 
 **Employee management**
 - Add, edit and delete employees
-- Search and filter
+- Search
 - Department tracking
 
 **Attendance tracking**
-- Daily check-in and check-out
+- Add attendance records with check-in and check-out
 - Present, absent and late status
-- Attendance records
+- Attendance records and daily counters
 
 **Task management**
 - Assign tasks to employees
@@ -25,9 +25,11 @@ Full-stack web application to manage employees, attendance and tasks, built with
 
 ## Technologies
 
-- Frontend: Angular, TypeScript, Bootstrap, HTML5, CSS3
-- Backend: Spring Boot
-- Database: MySQL
+HTML5 | CSS3 | JavaScript (no framework, no backend)
+
+## How to run
+
+Download `index (30).html` and open it in your browser. Sign in with the demo account below.
 
 ## Demo account
 
@@ -35,7 +37,7 @@ Email: `admin@company.com` / Password: `admin123` (demo data only)
 
 ## Note
 
-The application needs the Spring Boot backend and a MySQL database to run, so there is no online demo.
+All data is fictional and stored in the page, so it resets when you refresh. This is a personal front-end project built to practice interface design and JavaScript logic.
 
 ## Author
 
